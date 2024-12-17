@@ -1,7 +1,7 @@
 **QA Task Assignment**
 
 **Project Overview:**
-Testing the recruitment homepage located at [https://recruit.release.jobins.net/](https://recruit.release.jobins.net/) (Basic Auth Credentials: Username: jobins | Password: g4vrh5vo5hqogd0dprfj). The task is to verify the homepage's functionality, responsiveness, and user experience based on specified requirements.
+Testing the recruitment homepage located at [https://recruit.release.jobins.net/](https://recruit.release.jobins.net/) (Basic Auth Credentials: Username: jobins | Password: g4vrh5vo5hqogd0dprfj  ). The task is to verify the homepage's functionality, responsiveness, and user experience based on specified requirements.
 
 ### **Testing Scope:**
 
